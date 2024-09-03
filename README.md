@@ -18,8 +18,12 @@ By consolidating best practices, examples, and insights, this guide aims to be t
 6. [Testing and Iteration](docs/testing-iteration.md)
 7. [Case Studies and Examples](docs/case-studies.md)
 8. [Future Directions and Trends](docs/future-directions.md)
-9. [Contributing to PromptGuide](CONTRIBUTING.md)
-10. [License](LICENSE.md)
+9. [Advanced Techniques](docs/advanced-techniques.md)
+10. [Best Practices](docs/best-practices.md)
+11. [Challenges](docs/challenges.md)
+12. [Prompt Tuning](docs/prompt-tuning.md)
+13. [Contributing to PromptGuide](CONTRIBUTING.md)
+14. [License](LICENSE.md)
 
 ## Getting Started
 
